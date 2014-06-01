@@ -1,0 +1,14 @@
+{
+	"Nom":"BOUCHERIT",
+    "Prenom":"Kenza",
+    "Date":"13/12/1992",
+    "Ville":"Paris",
+    "EducationFirst": "-2013 : niveau Bac +4 après 2ans de prépa pour rentrer en école d’ingénieur  généraliste : l'EPF",        
+    "EducationSecond":"-2010-2011 : 2 années de classes préparatoire",
+    "ExperienceFirst": "-Août 2013 à décembre 2013 : Stage élève-ingénieur chez Alstom Grid en Angleterre(Stafford)",
+    "ExperienceSecond":"-Septembre et octobre 2012 : Démarchage et phoning chez optimal prepa",
+    "LanguageFirst":"Français : langue maternelle",
+	"LanguageSecond":"Anglais : niveau courant ",
+	"LanguageThird":"Espagnol: niveau basique",
+	"Interest":"Les voyages dans le monde entier (Canada, Etats-Unis, Angleterre, Espagne, Grèce..) et le tennis pratiqué depuis 6 ans"
+}

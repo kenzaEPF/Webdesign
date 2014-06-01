@@ -1,0 +1,15 @@
+
+{
+	"Nom":"BOUCHERIT",
+    "Prenom":"Kenza",
+    "Date":"12/13/1992",
+    "Ville":"Paris",
+    "EducationFirst": "-2012-2015 :Masters' of Engineering at the EPF Graduate School of Engineering",        
+    "EducationSecond":"-2010-2011 : 2 years of prepatory classes to gain entry to France's top Engineering schools",
+    "ExperienceFirst": "-August-December 2013 : Work placement in Alstom Grid, Stafford (UK)",
+    "ExperienceSecond":"-September-October 2012 : Advertising and marketing for Optimal Prepa",
+    "LanguageFirst":"French : Native language",
+	"LanguageSecond":"English : Good working knowledge",
+	"LanguageThird":"Spanish:Basic profiency",
+	"Interest":"I have travelled all around the world (Canada, the USA, England, Spain, Greece…) and I often play tennis"
+}

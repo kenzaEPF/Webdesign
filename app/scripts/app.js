@@ -13,6 +13,10 @@ angular
         templateUrl: 'views/main.html',
         controller: 'MainCtrl'
       })
+      .when('/english',{
+        templateUrl: 'views/english.html',
+        controller: 'EnglishCtrl'
+      })
       .otherwise({
         redirectTo: '/'
       });

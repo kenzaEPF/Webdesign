@@ -1,9 +1,9 @@
 'use strict';
 
 angular.module('webdesignApp')
-  .controller('MainCtrl', function ($scope,$http) { 
-
-	$http.get('french.json')
+  .controller('EnglishCtrl', function ($scope,$http)
+  	{
+  		$http.get('english.json')
 	.success(function(data){
 		$scope.Nom=data.Nom;
 		$scope.Prenom=data.Prenom;
@@ -13,15 +13,9 @@ angular.module('webdesignApp')
 		$scope.EducationSecond=data.EducationSecond;
 		$scope.ExperienceFirst=data.ExperienceFirst;
 		$scope.ExperienceSecond=data.ExperienceSecond;
-		$scope.ExperienceSecond=data.ExperienceSecond;
 		$scope.LanguageFirst=data.LanguageFirst;
 		$scope.LanguageSecond=data.LanguageSecond;
 		$scope.LanguageThird=data.LanguageThird;
 		$scope.Interest=data.Interest;
 	});
-
-});
-
-
-  
-
+  	});

@@ -1,0 +1,38 @@
+Kenza BOUCHERIT
+162, rue de ménilmontant 
+75020 Paris
+Phone number: 07.61.99.25.05
+e-mail: kenza.boucherit@epfedu.fr
+ 
+Nationality: French
+
+Education :
+
+-2012-2015 : Masters' of Engineering at the EPF Graduate School of Engineering, 	France. During the last two years I have studied Information Technologies like network, infrastructure and the Management of these technologies with quality and risk classes in order to be able to improve this management.
+-2010-2011 : 2 years of prepatory classes to gain entry to France's top Engineering 	schools.
+-2010 : French Scientific Baccalauréat ( equivalent to high school diploma or A-	levels), with honors. Lycée Hélène BOUCHER.
+
+Professionnal experience:
+
+-August-December 2013 : Work placement in Alstom Grid, Stafford (UK). Helping in implementing a Human-Machine Interface for VSC. It was part of my tutor’s PhD, researching a diverting converter. What’s more I had to control an ADC of an FPGA.
+
+-September-October 2012 : Advertising, marketing for Optimal Prepa, an organization proposing tutoring lessons in Mathematics and Physics to prepa class students.
+
+-August 2011 : Summer job as replacement secretary to the office of the mayor of Paris'19th district. Write letters to people looking for real estate in the 19th district.
+
+	-During 2010 : I gave lessons to students who were in high school.
+
+	-2007 : I did a work experience placement  in a law firm where I worked in 	classification.
+
+Language and IT skills :
+
+	French : Native language.
+	English : Good working knowledge.
+	Spanish:Basic profiency.
+	Software : OpenOffice, Ms Project, Solidworks, Simulink, Maple, Scilab, Dymola, 	Catia V5, LabVIEW, ModelSim.
+	Programming languages : php, html, VERILOG,  java, android.
+
+Extra-curricular activities  :
+
+	I have travelled all around the world (Canada, the USA, England, Spain, Greece…).
+	And I often play tennis.

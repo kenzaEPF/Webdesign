@@ -3,7 +3,10 @@ $icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/
 @import 'bootstrap-sass-official/vendor/assets/stylesheets/bootstrap';
 
 // bower:scss
+@import "../bower_components/bootstrap-sass-official/vendor/assets/stylesheets/bootstrap.scss";
 // endbower
+
+@import "../styles/colors.scss";
 
 .browsehappy {
     margin: 0.2em 0;
@@ -14,12 +17,11 @@ $icon-font-path: "/bower_components/bootstrap-sass-official/vendor/assets/fonts/
 
 /* Space out content a bit */
 body {
-    padding-top: 20px;
-    padding-bottom: 20px;
+    background: $body_background;
 }
 
 /* Everything but the jumbotron gets side spacing for mobile first views */
-.header,
+/*.header,*/
 .marketing,
 .footer {
     padding-left: 15px;
@@ -29,10 +31,13 @@ body {
 /* Custom page header */
 .header {
     border-bottom: 1px solid #e5e5e5;
+    margin-bottom: 15px;
 }
 
 /* Make the masthead heading the same height as the navigation */
-.header h3 {
+.header h3 {@inlude header;}
+
+@mixin header(){
     margin-top: 0;
     margin-bottom: 0;
     line-height: 40px;
@@ -56,10 +61,16 @@ body {
     border-bottom: 1px solid #e5e5e5;
 }
 
-.jumbotron .btn {
+.jumbotron{ .btn {
     font-size: 21px;
     padding: 14px 24px;
+}           h1 {
+    text-shadow:none;
+    font-size: 25px;
+    color: black;
 }
+}
+
 
 /* Supporting marketing content */
 .marketing {
@@ -77,7 +88,7 @@ body {
     }
 
     /* Remove the padding we set earlier */
-    .header,
+     .header,
     .marketing,
     .footer {
         padding-left: 0;
@@ -91,4 +102,14 @@ body {
     .jumbotron {
         border-bottom: 0;
     }
+}
+
+h1{
+    text-align: center;
+}
+h3{
+    text-align: center;
+}
+.centrer{
+    text-align: center;
 }
