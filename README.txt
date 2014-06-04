@@ -11,9 +11,7 @@ donnait avec la machine virtuelle sur laquelle on ne peut réduire la taille de 
 une machine physique. Ainsi je me suis basée sur ce que l'on a fait au tout début,
 en espèrant que cela donne quelque chose sur vos machines...
 
-Ensuite, pour l'utilisation de SASS, j'ai utilisé une variable pour le fond du site et du mixin 
-pour le header h3 pour faciliter son utilisation en évitant de réecrire à chaque fois tous ses 
-paramètres.
+Ensuite, pour l'utilisation de SASS, j'ai utilisé une variable pour le fond du site mais pas de mixin car je ne savais pas pour quoi l'utiliser.
 J'ai utilisé du nesting pour "rassembler" btn et h1 de jumbotron.
 
 	J'ai utilisé, comme demandé, l'architecture MVC en partant de deux fichiers JSON : un
